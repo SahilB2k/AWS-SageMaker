@@ -96,9 +96,21 @@ hyperparameters = {
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-![Bank Application Workflow](BankApplicationProject\Images\Training.png.png "ML Workflow")
+<div align="center">
+  <img src="./Images/Training.png" alt="Bank Application Training" width="600" height="400">
+  
+  <p><em>Figure 1: Training Image</em></p>
+</div>
 
-![Bank Application Workflow](BankApplicationProject\Images\ConfusionMatrix.png.png "ML Workflow")
+<div align="center">
+  <img src="./Images/ConfusionMatrix.png" alt="Confusion Matrix" width="600" height="400">
+  
+  <p><em>Figure 2: Model Performance Metrics</em></p>
+</div>
 
-![Bank Application Workflow](BankApplicationProject\Images\DeletingEndPoints.png.png "ML Workflow")
+<div align="center">
+  <img src="./Images/DeletingEndPoints.png" alt="Deleting Endpoints" width="600" height="400">
+  
+  <p><em>Figure 3: Resource Cleanup Process</em></p>
+</div>
 
