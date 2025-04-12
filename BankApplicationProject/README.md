@@ -96,6 +96,10 @@ hyperparameters = {
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+---
+
+## Images
+
 <div align="center">
   <img src="./Images/Training.png" alt="Bank Application Training" width="600" >
   
